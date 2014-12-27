@@ -1,0 +1,77 @@
+{
+"meta": [ ],
+"data": [
+{
+"id": 0,
+"name": "Корень",
+"children": [
+{
+"id": 2,
+"name": "Развлечения",
+"children": [ ],
+"isFolder": false,
+"avatarLink": "http:\/\/pinplan.anton.octopod.com\/images\/category-avatars\/2"
+},
+{
+"id": 3,
+"name": "Искусство",
+"children": [ ],
+"isFolder": false,
+"avatarLink": "http:\/\/pinplan.anton.octopod.com\/images\/category-avatars\/3"
+},
+{
+"id": 4,
+"name": "Дети",
+"children": [ ],
+"isFolder": false,
+"avatarLink": "http:\/\/pinplan.anton.octopod.com\/images\/category-avatars\/4"
+},
+{
+"id": 5,
+"name": "Питомцы",
+"children": [ ],
+"isFolder": false,
+"avatarLink": "http:\/\/pinplan.anton.octopod.com\/images\/category-avatars\/5"
+},
+{
+"id": 6,
+"name": "Помощь",
+"children": [ ],
+"isFolder": false,
+"avatarLink": "http:\/\/pinplan.anton.octopod.com\/images\/category-avatars\/6"
+},
+{
+"id": 7,
+"name": "Хобби",
+"children": [ ],
+"isFolder": false,
+"avatarLink": "http:\/\/pinplan.anton.octopod.com\/images\/category-avatars\/7"
+},
+{
+"id": 8,
+"name": "Игры",
+"children": [ ],
+"isFolder": false,
+"avatarLink": "http:\/\/pinplan.anton.octopod.com\/images\/category-avatars\/8"
+},
+{
+"id": 9,
+"name": "Спорт",
+"children": [ ],
+"isFolder": false,
+"avatarLink": "http:\/\/pinplan.anton.octopod.com\/images\/category-avatars\/9"
+},
+{
+"id": 10,
+"name": "Активный отдых",
+"children": [ ],
+"isFolder": false,
+"avatarLink": "http:\/\/pinplan.anton.octopod.com\/images\/category-avatars\/10"
+}
+],
+"isFolder": true,
+"avatarLink": "http:\/\/rationalwiki.org\/w\/images\/thumb\/1\/19\/Question_icon.svg\/120px-Question_icon.svg.png"
+}
+],
+"status": 200
+}
